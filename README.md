@@ -1,2 +1,2 @@
 # Excel-Project-
-Sales Trend Analysis of a store
+Sales Trend Analysis of a Store
